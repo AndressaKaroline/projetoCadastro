@@ -1,0 +1,7 @@
+{
+  "name": "projetoCadastro",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
